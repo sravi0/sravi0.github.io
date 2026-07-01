@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shyam’s Website",
+    "section": "",
+    "text": "Hi! I’m Shyam Ravishankar, a mathematics student and aspiring mathematician.\nHere’s my CV\nHere’s my blog"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a mathematics master’s student at the University of Münster, working on my thesis with Urs Hartl. I graduated from Rose–Hulman Institute of Technology in May 2024 with a major in mathematics and a minor in statistics. I completed my senior thesis on Euler systems of number fields under the direction of Tim All. It was my privilege to learn a variety of topics from him, including real analysis, p-adic analysis, and algebraic topology, and I owe much of my mathematical development to his guidance.\nMy main mathematical interests broadly lie in algebraic number theory and arithmetic algebraic geometry. I am especially interested in the arithmetic of function fields (specifically in the style of Goss), a beautiful intersection of number theory, algebraic geometry, (nonarchimedean) analysis, and analytic geometry. In Goss’s work, essentially all objects studied are in characteristic p: values of L-functions, class modules, Drinfeld modules and modular forms. Despite the change in setting, we still find many striking parallels to the classical setting of algebraic number theory and arithmetic geometry with complex-valued L-functions and representations.\nIn addition to math, I also enjoy travelling and playing the clarinet, and I had the honor of performing Mozart’s Clarinet Concerto in A Major with the Rose-Hulman Symphony Orchestra in May 2024.\n\n\n\nThe best part of travelling is seeing creatures like mama and baby bear"
+  },
+  {
+    "objectID": "docs.html",
+    "href": "docs.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here I have collected papers and notes that I have written. Any corrections/suggestions are welcome at shyam.ravishankar@uni-muenster.de."
+  },
+  {
+    "objectID": "docs.html#preprintspublications",
+    "href": "docs.html#preprintspublications",
+    "title": "Resources",
+    "section": "Preprints/Publications",
+    "text": "Preprints/Publications\nThe Massless Dirac Equation in Three Dimensions: Dispersive estimates and zero energy obstructions, joint work with W. Green, C. Lane, B. Lyons, A. Shaw. Journal of Differential Equations, 416:449–490, 2025. (arxiv, doi)."
+  },
+  {
+    "objectID": "docs.html#bachelors-thesis",
+    "href": "docs.html#bachelors-thesis",
+    "title": "Resources",
+    "section": "Bachelor’s Thesis",
+    "text": "Bachelor’s Thesis\nTruncated Euler Systems, bachelor’s thesis advised by Tim All.\nPoster presentation given at the Rose Show."
+  },
+  {
+    "objectID": "docs.html#expository-materials",
+    "href": "docs.html#expository-materials",
+    "title": "Resources",
+    "section": "Expository Materials",
+    "text": "Expository Materials\n\nCourse notes\nStable Homotopy Theory, based on the 2024 PCMI USS lecture series. Notes taken with Aden Shaw.\nAlgebraic Number Theory 2, lectured by Eugen Hellmann at Universität Münster in Summer 2025.\n\n\nSeminar notes\nExplicit determination of the Satake transform, seminar on the Satake isomorphism, Universität Münster, Summer 2026.\nBig Cohen–Macaulay Algebras, seminar on almost mathematics, Universität Münster, Winter 2026.\nTate–Shafarevich Groups, seminar on Galois cohomology, Rose–Hulman, Winter 2024. Written with Connor Lane.\nThe Hasse–Minkowski Theorem, with a cohomological interpretation by Connor Lane, seminar on Galois cohomology, Rose–Hulman, Winter 2024.\n\n\nPresentations\nReflexive Spaces, MA460 Functional Analysis, Rose–Hulman, Spring 2024. (notes)\nKaluza–Klein Theory, PH410 General Relativity, Rose–Hulman, Spring 2024. (notes)\nRamification of Knots, MA461 Algebraic Topology, Rose–Hulman, Fall 2023.\nConstructible Polygons, MA378 Number Theory, Rose–Hulman, Spring 2023.\n\n\nOther miscellany\nA pair of blog posts on computing homotopy groups of spheres\nAn MSE post about analogies between algebraic number theory and geometry of curves"
+  }
+]
