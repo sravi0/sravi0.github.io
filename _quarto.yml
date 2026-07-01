@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Shyam Ravishankar"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - docs.qmd
+
+format:
+  html:
+    respect-user-color-scheme: true
+    theme:
+      dark: solar
+      light: minty
+    css: styles.css
+    toc: true
+
+
+

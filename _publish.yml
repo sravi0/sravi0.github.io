@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: b8f135bb-4cd9-4185-b347-f7a7e8c215bd
+      url: 'https://shyam-r.quarto.pub/shyam'

@@ -1,0 +1,12 @@
+---
+title: "Shyam's Website"
+---
+
+Hi! I'm Shyam Ravishankar, a mathematics student and aspiring mathematician.
+
+[Here's my CV](docs/CV.pdf)
+
+[Here's my blog](https://shyam-r.quarto.pub/blog/)
+
+
+![](images/otter.jpg)
