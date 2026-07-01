@@ -49,7 +49,7 @@ Here I have collected papers and notes that I have written. Any corrections/sugg
 
 ### Other miscellany
 
-[A pair of blog posts on computing homotopy groups of spheres](https://shyam-r.quarto.pub/blog/posts/Homotopy%20Groups%20of%20Spheres/)
+[A pair of blog posts on computing homotopy groups of spheres](https://https://sravi0.github.io/otter-blog/posts/Homotopy%20Groups%20of%20Spheres/)
 
 [An MSE post about analogies between algebraic number theory and geometry of curves](https://math.stackexchange.com/questions/4993013/analogy-between-algebraic-geometry-and-algebraic-number-theory-definitions-pica/4993067#4993067)
 
