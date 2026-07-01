@@ -27,6 +27,8 @@ Here I have collected papers and notes that I have written. Any corrections/sugg
 
 ### Seminar notes
 
+[Flat morphisms and cohomology](docs/flat_morphisms_cohomology.pdf), seminar on cohomology of coherent sheaves, Universität Münster, Summer 2026.
+
 [Explicit determination of the Satake transform](docs/Satake.pdf), seminar on the Satake isomorphism, Universität Münster, Summer 2026.
 
 [Big Cohen&ndash;Macaulay Algebras](docs/Cohen_Macaulay.pdf), seminar on almost mathematics, Universität Münster, Winter 2026.
