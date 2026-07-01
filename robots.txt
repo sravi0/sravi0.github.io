@@ -1,1 +1,1 @@
-Sitemap: https://shyam-r.quarto.pub/shyam/sitemap.xml
+Sitemap: https://sravi0.github.io/otter-site/sitemap.xml

@@ -172,6 +172,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="seminar-notes" class="level3">
 <h3 class="anchored" data-anchor-id="seminar-notes">Seminar notes</h3>
+<p><a href="docs/flat_morphisms_cohomology.pdf">Flat morphisms and cohomology</a>, seminar on cohomology of coherent sheaves, Universität Münster, Summer 2026.</p>
 <p><a href="docs/Satake.pdf">Explicit determination of the Satake transform</a>, seminar on the Satake isomorphism, Universität Münster, Summer 2026.</p>
 <p><a href="docs/Cohen_Macaulay.pdf">Big Cohen–Macaulay Algebras</a>, seminar on almost mathematics, Universität Münster, Winter 2026.</p>
 <p><a href="docs/Tate-Shafarevich.pdf">Tate–Shafarevich Groups</a>, seminar on Galois cohomology, Rose–Hulman, Winter 2024. Written with <a href="https://connorlane04.github.io/">Connor Lane</a>.</p>
@@ -431,7 +432,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/sravi0\.github\.io\/otter-site\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
